@@ -1,0 +1,9 @@
+
+squid:UselessImportCheck	"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8âÂ—Ÿ-
+zsquid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8àË‰Ÿ-
+dsquid:UselessImportCheck"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8€çŸ-
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8¹œ›Ÿ-
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8šˆ¦Ÿ-
+Fsquid:S1148/"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…²·›Ÿ-
+Usquid:S16117"2Remove the parentheses around the "line" parameter(ı»Âüùÿÿÿÿ8şƒ°›Ÿ-
